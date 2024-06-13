@@ -10,7 +10,7 @@
 
 ## Description
 
-[Visit the Deployed Site]()
+[Visit the Deployed Site](https://kaylahebertson.github.io/module-1-challenge/)
 
 In this project, a functional HTML and CSS were provided with instructions to make them more concise and accesible. Code refactoring allows the external function of code to remain the same while the internal structure is updated to be more organized and maintainable. 
 
